@@ -241,4 +241,4 @@ This is not just another React syllabus. This is a **god-level React roadmap** t
 
 ---
 
-✨ This is the **God-Tier React Course Syllabus** – complete, modern, and structured for maximum engagement. It covers everything students **must know today** to be job-ready, while keeping them hooked through storytelling and projects.
+✨ complete, modern, and structured for maximum engagement. It covers everything students **must know today** to be job-ready, while keeping them hooked through storytelling and projects.
