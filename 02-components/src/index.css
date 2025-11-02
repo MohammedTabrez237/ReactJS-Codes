@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+html,
+body{
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: black;
+}
+
+.card{
+  background-color: rgb(130, 167, 27);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.nav{
+  background-color:rgb(189, 110, 7);
+  padding: 20px;
+  margin: 10px 200px;
+  border-radius: 5px;
+}
