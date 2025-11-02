@@ -1,4 +1,4 @@
-# ⚛️ GOD-TIER React.js Complete Course
+# ⚛️  React.js Practice codes
 
 This is not just another React syllabus. This is a **god-level React roadmap** that combines storytelling, projects, and every essential + advanced modern topic. By the end, students will go from absolute beginner to **production-ready React Engineer** with projects that showcase real-world skills.
 
