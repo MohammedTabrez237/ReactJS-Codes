@@ -22,15 +22,16 @@ body{
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
+  gap: 20px;
 }
 
 .card{
   width: 300px;
-  border: 2px solid white;
-  padding: 20px;
+  border: 2px solid white ;
+  padding: 20px ;
   text-align: center;
   border-radius: 8px;
-  background-color: rgb(77, 76, 76);
+  background-color: rgb(53, 53, 53) ;
 }
 
 .card h1{
@@ -43,6 +44,7 @@ body{
   margin: 10px;
   border-radius: 50%;
   object-fit: cover;
+  border: 2px solid rgb(67, 209, 107);
 }
 
 .card p{
