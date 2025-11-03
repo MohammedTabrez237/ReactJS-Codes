@@ -5,8 +5,9 @@ const App = () => {
   return (
     <div className='parent'>
       
-      <Card />
-      <Card />
+      <Card user="Mohd Jtrix" />
+      <Card user="Mohd Tabrez" />
+      
       
     </div>
   )
